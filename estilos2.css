@@ -10,10 +10,10 @@ body {
 
 a button {
     background-color: black;
+    border: 5px double green;
   border-radius: 10px;
   color: white;
   width: 150px;
-  display: inline-block;
 }
 
 h1 {

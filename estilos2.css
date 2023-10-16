@@ -1,0 +1,109 @@
+@font-face  {
+    font-family: 'Minecraft';
+    src: url(Minercraftory.ttf) format('truetype');
+    font-size: 50px;
+}
+
+body {
+    background: url(background1.png);
+}
+
+a button {
+    background-color: black;
+  border-radius: 10px;
+  color: white;
+  width: 150px;
+  display: inline-block;
+}
+
+h1 {
+    font-family: 'Minecraft';
+ color: white;
+ margin-left: 130px;
+}
+p {
+    color: white;
+    margin-left: 40px;
+    font-size: 17px;
+    text-align: left;
+}
+img.QSMPSITE {
+    height: 220px;
+    width: 350px;
+    border: 5px solid green;
+    margin-left: 90px;
+    border-radius: 10px;
+}
+img.QSMPSITE2 {
+    height: 250px;
+    width: 380px;
+    border: 5px solid green;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+div.fleximg {
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+div.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.textilha {
+    margin-left: 20px;
+    text-align: left; 
+}
+
+img.flexilha {
+    margin-left: 200px;
+    border: 5px solid green;
+    border-radius: 10px;
+    height: 250px;
+    width: 380px;
+}
+
+div.Container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+figcaption {
+    color: white;
+    margin-left: 190px;
+    margin-top: 6px;
+}
+
+
+/*header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+   }
+   
+   nav {
+     background-color: #000024;
+     padding: 3px;
+   }
+
+   nav a {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-variant: small-caps;
+    margin-right: 10px;
+    color: white;
+   }
+
+   nav a:hover {
+    color: lightblue;
+    text-decoration: underline;
+   }
+
+   div.logo img  {
+    width: 50px;
+    height: 50px;
+   }*/

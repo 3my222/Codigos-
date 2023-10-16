@@ -1,0 +1,63 @@
+@font-face  {
+    font-family: 'Minecraft';
+    src: url(Minercraftory.ttf) format('truetype');
+    font-weight: 100;
+    font-size: 50px;
+}
+
+body {
+    background-color: #000010;
+}
+
+hr{
+    border: 2px solid white;
+    width: 1280px;
+}
+
+
+button {
+    background-color: black;
+  border-radius: 10px;
+  color: white;
+  width: 150px;
+}
+a.Ilha {
+ margin-left: 265px;
+ border: 8px solid green;
+        border-radius: 60px;
+        height: 40px;
+}
+a.Jogadores {
+        border: 8px solid green;
+        border-radius: 60px;
+        height: 40px;
+}
+a.Ovos {
+    border: 8px solid green;
+    border-radius: 60px;
+    height: 40px;
+}
+a.Federacao {
+    border: 8px solid green;
+    border-radius: 60px;
+    height: 40px;
+}
+
+h1 {
+    font-family: 'Minecraft';
+ color: white;
+ margin-left: 479px;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: white;
+}
+
+table {
+    color: white;
+    border: 1px solid white;
+}

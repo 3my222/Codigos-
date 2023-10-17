@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Alice';
+    src: url(fontes/Alice_in_Wonderland_3.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'Elastic';
+    src: url(fontes/Elastic\ Stretch.otf) format(opentype);
+}
+div.Container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+div.logo1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+div.menu1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+}
+
+img.imglogo1 {
+width: 93px;
+height: 90px;
+}
+
+a button {
+    font-family: 'Alice';
+   color: rgb(207, 13, 13);
+   background-color: rgb(255, 255, 255);
+   border: none;
+   font-size: 24px;
+   font-weight: 400;
+}
+
+h4 {
+font-family: 'Alice';
+    color: rgb(17, 1, 1);
+    font-size: 23px;
+}
+
+body {
+background-color: rgb(255, 255, 255);
+
+}
